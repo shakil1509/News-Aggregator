@@ -1,0 +1,16 @@
+{
+    "userPreferences": [
+        {
+            "userId": "102",
+            "preferences": {
+                "categories": [
+                    "health",
+                    "technology"
+                ],
+                "sources": [
+                    "google-news-in"
+                ]
+            }
+        }
+    ]
+}

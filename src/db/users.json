@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+            "userId": 102,
+            "userName": "hena",
+            "email": "hena@gmail.com",
+            "password": "$2b$08$gl8Lr81xOHXKhTBfXllLBee03sojbQITVWCoqfMNfsdBDY.VDXjtS",
+            "role": "admin",
+            "createdAt": "1/12/2023 @ 22:54:52"
+        }
+    ]
+}
